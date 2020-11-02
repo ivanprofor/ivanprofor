@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! 👋🤓</h2>
+<h2 align="center">Hello there 👋🤓</h2>
 <p>I have graduated Alecu Russo Balti State University in 2013, Computer Science and English Language specialty. I am able to think analytically, a skill acquired being a student, as well as to speak fluently English language (see IELTS Academic Test Report Form reference).
 
 My main principles in IT are automate everything what can be automated as well as up to date security policies. The way I am doing business is by paying attention to details and scheduling the work for long and short terms. Also I like to document the tasks (aka to write technical documentation) which if being grouped may form a tutorial. This helps me and my colleagues to be productive even when something is forgotten. These tutorials are published on https://www.docs.iprofor.it.
