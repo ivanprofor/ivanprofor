@@ -1,6 +1,8 @@
 <h2 align="center">Hello there! 👋🤓</h2>
-<p align="center">I have graduated Alecu Russo Balti State University in 2013, Computer Science and English Language specialty. I am able to think analytically, a skill acquired being a student, as well as to speak fluently English language (see IELTS Academic Test Report Form reference).
+<p>I have graduated Alecu Russo Balti State University in 2013, Computer Science and English Language specialty. I am able to think analytically, a skill acquired being a student, as well as to speak fluently English language (see IELTS Academic Test Report Form reference).
+
 My main principles in IT are automate everything what can be automated as well as up to date security policies. The way I am doing business is by paying attention to details and scheduling the work for long and short terms. Also I like to document the tasks (aka to write technical documentation) which if being grouped may form a tutorial. This helps me and my colleagues to be productive even when something is forgotten. These tutorials are published on https://www.docs.iprofor.it.
+
 During my previous jobs, among work related skills, I also developed the skills to communicate correctly and understand the client's needs, as well as to execute the required amount of work in time. Amongst other leisure activities the ones that I am fond of are daily cycling and taking wildlife shots.</p>
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/iprofor/master/PROJECTS.md">here</a> </h3>
