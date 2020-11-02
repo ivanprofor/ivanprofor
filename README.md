@@ -1,52 +1,12 @@
-<p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
-<h2 align="center">Hello there! My name is iprofor. 👋🤓</h2>
-<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
+<h2 align="center">Hello there! 👋🤓</h2>
+<p align="center">I have graduated Alecu Russo Balti State University in 2013, Computer Science and English Language specialty. I am able to think analytically, a skill acquired being a student, as well as to speak fluently English language (see IELTS Academic Test Report Form reference).
+My main principles in IT are automate everything what can be automated as well as up to date security policies. The way I am doing business is by paying attention to details and scheduling the work for long and short terms. Also I like to document the tasks (aka to write technical documentation) which if being grouped may form a tutorial. This helps me and my colleagues to be productive even when something is forgotten. These tutorials are published on https://www.docs.iprofor.it.
+During my previous jobs, among work related skills, I also developed the skills to communicate correctly and understand the client's needs, as well as to execute the required amount of work in time. Amongst other leisure activities the ones that I am fond of are daily cycling and taking wildlife shots.</p>
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/iprofor/master/PROJECTS.md">here</a> </h3>
 
-### 📰 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Personal URL Shortener with GitHub, Netlify and an Affordable Domain Name](https://blog.iprofor/post/how-to-create-a-simple-personal-url-shortener-with-github-netlify-and-an-affordable-domain-name/)
-- [How to Create a Dev Environment in Windows 10: Part 1](https://blog.iprofor/post/how-to-create-a-dev-environment-in-windows-10-part-1/)
-- [Resources for Building a Beautiful Progressive JAMstack Blog](https://blog.iprofor/post/resources-for-building-a-beautiful-progressive-jamstack-blog/)
-- [Building a Beautiful Progressive JAMstack Blog Part 2: Day 4 to 7](https://blog.iprofor/post/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/)
-- [Building a Beautiful Progressive JAMstack Blog Part 1: Day 1 to 3](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/)
-<!-- BLOG-POST-LIST:END -->
+![iprofor's Github Stats](https://github-readme-stats.vercel.app/api?username=iprofor&show_icons=true)
 
-### 💼 Where i am currently working at/as
-- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-- [TechWit Ke: Chief Editor, Developer and Founder](https://techwit3.netlify.com) ✒
-- [Open World: Freelance](https://stephenajulu.com)
+![iprofor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7455daf2-c0f1-431a-994d-eb4077d910ec)
 
-### 💻 What i am currently/done working on
-- [GreeetinCard](https://greeetincard.crd.co)  🚀
-- Tech6  🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
-- BioEmergency & Biomme  🚀 *coming soon*
-- Quevant  🚀 *coming very soon* 🚀
-- [TechWit Ke](https://techwit2.netlify.app)  🚀 *coming very soon* 🚀
-- Lofied  🚀 *coming soon*
-- [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
-
-### 📫 Where to find me
-- [Facebook](https://facebook.com/stephenajulu) 😏
-- [Twitter](https://twitter.com/stephenajulu) 🐤
-- [Instagram](https://instagram.com/stephenajulu) 😎
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
-- [Website](https://stephenajulu.com) 😏🔗
-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
-- [Additional places to find me](https://stephenajulu.com/links) 🔗🔗
-- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
-- [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒
-- [TechWit Ke: Also Coming Soon](https://techwit2.netlify.app) 🔨✒
-
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprofor&layout=compact)
