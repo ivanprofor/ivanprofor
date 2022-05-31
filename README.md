@@ -7,7 +7,7 @@ During my previous jobs, among work related skills, I also developed the skills 
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/iprofor/master/PROJECTS.md">here</a> </h3>
 
-![iprofor's Github Stats](https://github-readme-stats.vercel.app/api?username=iprofor&show_icons=true)
+![iprofor's Github Stats](https://github-readme-stats.vercel.app/api?username=iprofor&show_icons=true&count_private=true)
 
 ![iprofor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7455daf2-c0f1-431a-994d-eb4077d910ec)
 
