@@ -20,6 +20,8 @@ During my previous jobs, among work related skills, I also developed the skills 
 
 ![iprofor's Github Stats](https://github-readme-stats.vercel.app/api?username=iprofor&show_icons=true&count_private=true)
 
-![iprofor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7455daf2-c0f1-431a-994d-eb4077d910ec)
+<a href="https://wakatime.com"><img width="45%" src="https://wakatime.com/share/@7455daf2-c0f1-431a-994d-eb4077d910ec/abb8f6f2-cc8c-4ca9-88c4-50f4f1c2fa16.png" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprofor&layout=compact)
+<a href="https://wakatime.com"><img width="45%" src="https://wakatime.com/share/@7455daf2-c0f1-431a-994d-eb4077d910ec/8f8922fd-de44-4dbd-9182-e78cf5e020bd.png" /></a>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprofor&layout=compact) -->
